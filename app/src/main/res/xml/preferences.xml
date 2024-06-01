@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <SwitchPreferenceCompat
+        android:key="notifications"
+        android:title="Enable message notifications"
+        android:summary="Receive notifications for new messages"
+        android:defaultValue="false" />
+
+    <SwitchPreferenceCompat
+        android:key="location"
+        android:title="Enable location tracking"
+        android:summary="Allow the app to access your location"
+        android:defaultValue="false" />
+
+    <SwitchPreferenceCompat
+        android:key="dark_mode"
+        android:title="Enable Dark Mode"
+        android:summary="Toggle between light and dark theme"
+        android:defaultValue="false"/>
+
+</PreferenceScreen>

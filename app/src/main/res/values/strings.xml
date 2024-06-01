@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CoinSight</string>
+    <string name="title_home">Home</string>
+    <string name="title_crypto_list">Crypto List</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_gains_losses">GainsLosses</string>
+    <string name="not_found">Not found</string>
+    <string name="gains">Gains</string>
+    <string name="losses">Losses</string>
+    <string name="app_overview">Bine ați venit în aplicația CoinSight! Această aplicație vă permite să urmăriți și să vizualizați informații despre criptomonede, inclusiv prețurile actuale, modificările recente și alte detalii relevante. Puteți explora diferite criptomonede și puteți obține actualizări în timp real despre piața cripto. În plus, puteți seta notificări pentru a fi la curent cu ultimele tendințe. Bucurați-vă de explorarea lumii cripto cu CoinSight!</string>
+    <string name="_7d">1 Week</string>
+    <string name="_24h">1 Day</string>
+    <string name="_1h">1 Hour</string>
+    <string name="empty_watchlist">Nothing to show</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
