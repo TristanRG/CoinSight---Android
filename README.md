@@ -14,8 +14,8 @@ CoinSight is a comprehensive cryptocurrency tracking application designed to pro
 
 ## Screenshots
 
-![alt text](CryptoListFragment.png)
-![alt text](DetailsFragment.png)
-![alt text](HomeFragment.png)
-![alt text](SavedFragment.png)
-![alt text](SettingsFragment.png)
+![Crypto List Fragment](Screenshots/CryptoListFragment.png)
+![Details Fragment](Screenshots/DetailsFragment.png)
+![Home Fragment](Screenshots/HomeFragment.png)
+![Saved Fragment](Screenshots/SavedFragment.png)
+![Settings Fragment](Screenshots/SettingsFragment.png)
